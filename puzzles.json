@@ -1,0 +1,985 @@
+{
+  "timezone": "Asia/Jakarta",
+  "puzzles": {
+    "2026-10-30": {
+      "rows": 12,
+      "cols": 8,
+      "entries": [
+        {
+          "id": "q023",
+          "answer": "BUMI",
+          "clue": "Planet tempat manusia hidup.",
+          "r": 0,
+          "c": 4,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q015",
+          "answer": "NIL",
+          "clue": "Sungai yang mengalir melalui Kairo.",
+          "r": 0,
+          "c": 6,
+          "dir": "down",
+          "number": 2
+        },
+        {
+          "id": "q046",
+          "answer": "KULIT",
+          "clue": "Organ terluar yang melindungi tubuh manusia.",
+          "r": 1,
+          "c": 3,
+          "dir": "across",
+          "number": 3
+        },
+        {
+          "id": "q076",
+          "answer": "METER",
+          "clue": "Satuan pokok SI untuk panjang.",
+          "r": 2,
+          "c": 2,
+          "dir": "down",
+          "number": 4
+        },
+        {
+          "id": "q035",
+          "answer": "BESI",
+          "clue": "Logam dengan lambang kimia Fe.",
+          "r": 3,
+          "c": 1,
+          "dir": "across",
+          "number": 5
+        },
+        {
+          "id": "q037",
+          "answer": "ATOM",
+          "clue": "Unit terkecil suatu unsur yang masih memiliki sifat unsur itu.",
+          "r": 5,
+          "c": 4,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q039",
+          "answer": "PROTON",
+          "clue": "Partikel bermuatan positif dalam inti atom.",
+          "r": 6,
+          "c": 1,
+          "dir": "across",
+          "number": 7
+        },
+        {
+          "id": "q095",
+          "answer": "NET",
+          "clue": "Jaring pembatas di tengah lapangan bulu tangkis.",
+          "r": 6,
+          "c": 6,
+          "dir": "down",
+          "number": 8
+        },
+        {
+          "id": "q092",
+          "answer": "SKAKMAT",
+          "clue": "Keadaan raja terancam dalam catur tanpa langkah penyelamatan.",
+          "r": 8,
+          "c": 0,
+          "dir": "across",
+          "number": 9
+        },
+        {
+          "id": "q052",
+          "answer": "AKAR",
+          "clue": "Bagian tumbuhan yang menyerap air dari tanah.",
+          "r": 8,
+          "c": 5,
+          "dir": "down",
+          "number": 10
+        }
+      ],
+      "date": "2026-10-30",
+      "number": 1
+    },
+    "2026-10-31": {
+      "rows": 9,
+      "cols": 11,
+      "entries": [
+        {
+          "id": "q070",
+          "answer": "GARUDA",
+          "clue": "Burung mitologis pada lambang negara Indonesia.",
+          "r": 0,
+          "c": 1,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q049",
+          "answer": "PAUS",
+          "clue": "Mamalia laut besar yang bernapas dengan paru-paru.",
+          "r": 0,
+          "c": 3,
+          "dir": "down",
+          "number": 2
+        },
+        {
+          "id": "q072",
+          "answer": "PERSEGI",
+          "clue": "Bangun datar dengan empat sisi sama panjang dan empat sudut siku-siku.",
+          "r": 0,
+          "c": 3,
+          "dir": "across",
+          "number": 2
+        },
+        {
+          "id": "q019",
+          "answer": "SAHARA",
+          "clue": "Gurun panas luas di Afrika bagian utara.",
+          "r": 0,
+          "c": 6,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q086",
+          "answer": "GITAR",
+          "clue": "Alat musik petik yang umumnya memiliki enam senar.",
+          "r": 0,
+          "c": 8,
+          "dir": "down",
+          "number": 4
+        },
+        {
+          "id": "q089",
+          "answer": "NADA",
+          "clue": "Bunyi yang memiliki tinggi tertentu dalam musik.",
+          "r": 1,
+          "c": 0,
+          "dir": "across",
+          "number": 5
+        },
+        {
+          "id": "q007",
+          "answer": "SEMARANG",
+          "clue": "Ibu kota Provinsi Jawa Tengah.",
+          "r": 3,
+          "c": 3,
+          "dir": "across",
+          "number": 6
+        },
+        {
+          "id": "q042",
+          "answer": "GINJAL",
+          "clue": "Organ penyaring darah yang menghasilkan urine.",
+          "r": 3,
+          "c": 10,
+          "dir": "down",
+          "number": 7
+        },
+        {
+          "id": "q001",
+          "answer": "JAKARTA",
+          "clue": "Kota tempat Monumen Nasional berada.",
+          "r": 5,
+          "c": 0,
+          "dir": "across",
+          "number": 8
+        },
+        {
+          "id": "q059",
+          "answer": "OMNIVORA",
+          "clue": "Sebutan bagi hewan pemakan tumbuhan dan hewan.",
+          "r": 7,
+          "c": 3,
+          "dir": "across",
+          "number": 9
+        }
+      ],
+      "date": "2026-10-31",
+      "number": 2
+    },
+    "2026-11-01": {
+      "rows": 9,
+      "cols": 12,
+      "entries": [
+        {
+          "id": "q056",
+          "answer": "KEPOMPONG",
+          "clue": "Tahap antara ulat dan kupu-kupu.",
+          "r": 0,
+          "c": 4,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q088",
+          "answer": "TEMPO",
+          "clue": "Istilah musik untuk cepat atau lambatnya lagu.",
+          "r": 1,
+          "c": 3,
+          "dir": "across",
+          "number": 2
+        },
+        {
+          "id": "q064",
+          "answer": "RENDANG",
+          "clue": "Masakan Minangkabau berbahan daging yang dimasak dengan santan dan rempah.",
+          "r": 1,
+          "c": 10,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q041",
+          "answer": "JANTUNG",
+          "clue": "Organ yang memompa darah ke seluruh tubuh.",
+          "r": 2,
+          "c": 0,
+          "dir": "down",
+          "number": 4
+        },
+        {
+          "id": "q043",
+          "answer": "OTAK",
+          "clue": "Organ pusat pengendali sistem saraf manusia.",
+          "r": 3,
+          "c": 4,
+          "dir": "across",
+          "number": 5
+        },
+        {
+          "id": "q048",
+          "answer": "KOMODO",
+          "clue": "Kadal besar khas Indonesia dari genus Varanus.",
+          "r": 3,
+          "c": 7,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q004",
+          "answer": "MEDAN",
+          "clue": "Ibu kota Provinsi Sumatera Utara.",
+          "r": 5,
+          "c": 7,
+          "dir": "across",
+          "number": 7
+        },
+        {
+          "id": "q012",
+          "answer": "TOKYO",
+          "clue": "Ibu kota Jepang.",
+          "r": 6,
+          "c": 3,
+          "dir": "across",
+          "number": 8
+        },
+        {
+          "id": "q065",
+          "answer": "GUDEG",
+          "clue": "Hidangan khas Yogyakarta berbahan nangka muda.",
+          "r": 8,
+          "c": 0,
+          "dir": "across",
+          "number": 9
+        },
+        {
+          "id": "q098",
+          "answer": "GOL",
+          "clue": "Keadaan bola masuk ke gawang secara sah dalam sepak bola.",
+          "r": 8,
+          "c": 6,
+          "dir": "across",
+          "number": 10
+        }
+      ],
+      "date": "2026-11-01",
+      "number": 3
+    },
+    "2026-11-02": {
+      "rows": 15,
+      "cols": 10,
+      "entries": [
+        {
+          "id": "q090",
+          "answer": "OKTAF",
+          "clue": "Jarak antara sebuah nada dan nada berikutnya dengan frekuensi dua kali lipat.",
+          "r": 0,
+          "c": 4,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q033",
+          "answer": "KARBON",
+          "clue": "Unsur utama penyusun intan dan grafit.",
+          "r": 1,
+          "c": 4,
+          "dir": "across",
+          "number": 2
+        },
+        {
+          "id": "q080",
+          "answer": "BAROMETER",
+          "clue": "Alat untuk mengukur tekanan udara.",
+          "r": 1,
+          "c": 7,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q006",
+          "answer": "DENPASAR",
+          "clue": "Ibu kota Provinsi Bali.",
+          "r": 3,
+          "c": 0,
+          "dir": "across",
+          "number": 4
+        },
+        {
+          "id": "q085",
+          "answer": "PIANO",
+          "clue": "Alat musik bertuts dengan senar yang dipukul oleh mekanisme palu.",
+          "r": 7,
+          "c": 3,
+          "dir": "down",
+          "number": 5
+        },
+        {
+          "id": "q051",
+          "answer": "BAMBU",
+          "clue": "Tumbuhan beruas yang menjadi makanan utama panda raksasa.",
+          "r": 8,
+          "c": 1,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q100",
+          "answer": "ESTAFET",
+          "clue": "Lomba lari beregu dengan pergantian tongkat.",
+          "r": 8,
+          "c": 5,
+          "dir": "down",
+          "number": 7
+        },
+        {
+          "id": "q008",
+          "answer": "MAKASSAR",
+          "clue": "Ibu kota Provinsi Sulawesi Selatan.",
+          "r": 9,
+          "c": 0,
+          "dir": "across",
+          "number": 8
+        },
+        {
+          "id": "q087",
+          "answer": "BIOLA",
+          "clue": "Alat musik gesek yang umumnya memiliki empat senar.",
+          "r": 11,
+          "c": 1,
+          "dir": "across",
+          "number": 9
+        },
+        {
+          "id": "q096",
+          "answer": "RAKET",
+          "clue": "Alat pemukul kok dalam bulu tangkis.",
+          "r": 13,
+          "c": 2,
+          "dir": "across",
+          "number": 10
+        }
+      ],
+      "date": "2026-11-02",
+      "number": 4
+    },
+    "2026-11-03": {
+      "rows": 12,
+      "cols": 8,
+      "entries": [
+        {
+          "id": "q055",
+          "answer": "KAKTUS",
+          "clue": "Tumbuhan berduri yang banyak beradaptasi di daerah kering.",
+          "r": 0,
+          "c": 1,
+          "dir": "across",
+          "number": 1
+        },
+        {
+          "id": "q097",
+          "answer": "KIPER",
+          "clue": "Pemain sepak bola yang menjaga gawang.",
+          "r": 0,
+          "c": 3,
+          "dir": "down",
+          "number": 2
+        },
+        {
+          "id": "q094",
+          "answer": "MARATON",
+          "clue": "Lomba lari dengan jarak resmi 42,195 kilometer.",
+          "r": 1,
+          "c": 7,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q075",
+          "answer": "PRIMA",
+          "clue": "Sebutan bilangan lebih dari satu yang hanya memiliki dua faktor positif.",
+          "r": 2,
+          "c": 3,
+          "dir": "across",
+          "number": 4
+        },
+        {
+          "id": "q047",
+          "answer": "INSANG",
+          "clue": "Alat pernapasan ikan di dalam air.",
+          "r": 2,
+          "c": 5,
+          "dir": "down",
+          "number": 5
+        },
+        {
+          "id": "q017",
+          "answer": "PASIFIK",
+          "clue": "Samudra terluas di Bumi.",
+          "r": 4,
+          "c": 1,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q013",
+          "answer": "PARIS",
+          "clue": "Kota tempat Menara Eiffel berada.",
+          "r": 4,
+          "c": 1,
+          "dir": "across",
+          "number": 6
+        },
+        {
+          "id": "q062",
+          "answer": "SASANDO",
+          "clue": "Alat musik petik tradisional dari Pulau Rote.",
+          "r": 6,
+          "c": 1,
+          "dir": "across",
+          "number": 7
+        },
+        {
+          "id": "q099",
+          "answer": "SERVIS",
+          "clue": "Pukulan pembuka untuk memulai reli dalam tenis.",
+          "r": 6,
+          "c": 3,
+          "dir": "down",
+          "number": 8
+        },
+        {
+          "id": "q031",
+          "answer": "OKSIGEN",
+          "clue": "Gas yang diperlukan manusia untuk bernapas.",
+          "r": 10,
+          "c": 0,
+          "dir": "across",
+          "number": 9
+        }
+      ],
+      "date": "2026-11-03",
+      "number": 5
+    },
+    "2026-11-04": {
+      "rows": 8,
+      "cols": 14,
+      "entries": [
+        {
+          "id": "q014",
+          "answer": "MESIR",
+          "clue": "Negara tempat Piramida Giza berada.",
+          "r": 0,
+          "c": 6,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q074",
+          "answer": "VOLUME",
+          "clue": "Ukuran ruang yang ditempati benda tiga dimensi.",
+          "r": 0,
+          "c": 9,
+          "dir": "down",
+          "number": 2
+        },
+        {
+          "id": "q032",
+          "answer": "HIDROGEN",
+          "clue": "Unsur kimia dengan nomor atom satu.",
+          "r": 0,
+          "c": 13,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q083",
+          "answer": "TELESKOP",
+          "clue": "Alat untuk mengamati benda langit yang jauh.",
+          "r": 1,
+          "c": 3,
+          "dir": "across",
+          "number": 4
+        },
+        {
+          "id": "q034",
+          "answer": "EMAS",
+          "clue": "Logam mulia dengan lambang kimia Au.",
+          "r": 1,
+          "c": 4,
+          "dir": "down",
+          "number": 5
+        },
+        {
+          "id": "q005",
+          "answer": "PADANG",
+          "clue": "Ibu kota Provinsi Sumatera Barat.",
+          "r": 2,
+          "c": 11,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q020",
+          "answer": "BRASIL",
+          "clue": "Negara terbesar di Amerika Selatan berdasarkan luas wilayah.",
+          "r": 3,
+          "c": 2,
+          "dir": "across",
+          "number": 7
+        },
+        {
+          "id": "q028",
+          "answer": "BULAN",
+          "clue": "Satelit alami Bumi.",
+          "r": 3,
+          "c": 2,
+          "dir": "down",
+          "number": 7
+        },
+        {
+          "id": "q011",
+          "answer": "JEPANG",
+          "clue": "Negara asal olahraga sumo.",
+          "r": 5,
+          "c": 8,
+          "dir": "across",
+          "number": 8
+        },
+        {
+          "id": "q093",
+          "answer": "RENANG",
+          "clue": "Olahraga bergerak di air menggunakan anggota tubuh.",
+          "r": 7,
+          "c": 0,
+          "dir": "across",
+          "number": 9
+        }
+      ],
+      "date": "2026-11-04",
+      "number": 6
+    },
+    "2026-11-05": {
+      "rows": 10,
+      "cols": 12,
+      "entries": [
+        {
+          "id": "q063",
+          "answer": "BATIK",
+          "clue": "Kain bermotif yang secara tradisional dibuat menggunakan malam.",
+          "r": 0,
+          "c": 0,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q022",
+          "answer": "VENUS",
+          "clue": "Planet kedua dari Matahari.",
+          "r": 0,
+          "c": 7,
+          "dir": "across",
+          "number": 2
+        },
+        {
+          "id": "q040",
+          "answer": "NEUTRON",
+          "clue": "Partikel tanpa muatan listrik dalam inti atom.",
+          "r": 0,
+          "c": 9,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q025",
+          "answer": "JUPITER",
+          "clue": "Planet terbesar di tata surya.",
+          "r": 1,
+          "c": 6,
+          "dir": "down",
+          "number": 4
+        },
+        {
+          "id": "q003",
+          "answer": "SURABAYA",
+          "clue": "Ibu kota Provinsi Jawa Timur.",
+          "r": 2,
+          "c": 3,
+          "dir": "down",
+          "number": 5
+        },
+        {
+          "id": "q026",
+          "answer": "SATURNUS",
+          "clue": "Planet yang terkenal dengan sistem cincinnya yang mencolok.",
+          "r": 2,
+          "c": 3,
+          "dir": "across",
+          "number": 5
+        },
+        {
+          "id": "q053",
+          "answer": "KLOROFIL",
+          "clue": "Pigmen hijau yang membantu tumbuhan menangkap cahaya.",
+          "r": 4,
+          "c": 0,
+          "dir": "across",
+          "number": 6
+        },
+        {
+          "id": "q045",
+          "answer": "LIDAH",
+          "clue": "Organ di mulut yang memiliki kuncup pengecap.",
+          "r": 4,
+          "c": 1,
+          "dir": "down",
+          "number": 7
+        },
+        {
+          "id": "q029",
+          "answer": "MATAHARI",
+          "clue": "Bintang di pusat tata surya.",
+          "r": 7,
+          "c": 0,
+          "dir": "across",
+          "number": 8
+        },
+        {
+          "id": "q067",
+          "answer": "SATE",
+          "clue": "Hidangan potongan daging yang ditusuk lalu dibakar.",
+          "r": 9,
+          "c": 2,
+          "dir": "across",
+          "number": 9
+        }
+      ],
+      "date": "2026-11-05",
+      "number": 7
+    },
+    "2026-11-06": {
+      "rows": 12,
+      "cols": 12,
+      "entries": [
+        {
+          "id": "q091",
+          "answer": "BIDAK",
+          "clue": "Buah catur yang juga disebut pion.",
+          "r": 0,
+          "c": 10,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q058",
+          "answer": "KARNIVORA",
+          "clue": "Sebutan bagi hewan pemakan daging.",
+          "r": 3,
+          "c": 6,
+          "dir": "down",
+          "number": 2
+        },
+        {
+          "id": "q002",
+          "answer": "BANDUNG",
+          "clue": "Ibu kota Provinsi Jawa Barat.",
+          "r": 4,
+          "c": 1,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q018",
+          "answer": "ANTARTIKA",
+          "clue": "Benua yang mengelilingi Kutub Selatan.",
+          "r": 4,
+          "c": 3,
+          "dir": "across",
+          "number": 4
+        },
+        {
+          "id": "q061",
+          "answer": "ANGKLUNG",
+          "clue": "Alat musik bambu yang dimainkan dengan digoyangkan.",
+          "r": 6,
+          "c": 0,
+          "dir": "across",
+          "number": 5
+        },
+        {
+          "id": "q081",
+          "answer": "KOMPAS",
+          "clue": "Alat penunjuk arah yang memanfaatkan medan magnet Bumi.",
+          "r": 6,
+          "c": 3,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q044",
+          "answer": "RETINA",
+          "clue": "Lapisan peka cahaya di bagian belakang mata.",
+          "r": 6,
+          "c": 11,
+          "dir": "down",
+          "number": 7
+        },
+        {
+          "id": "q078",
+          "answer": "SEKON",
+          "clue": "Satuan pokok SI untuk waktu.",
+          "r": 7,
+          "c": 9,
+          "dir": "down",
+          "number": 8
+        },
+        {
+          "id": "q016",
+          "answer": "EVEREST",
+          "clue": "Gunung tertinggi di dunia jika diukur dari permukaan laut.",
+          "r": 8,
+          "c": 5,
+          "dir": "across",
+          "number": 9
+        },
+        {
+          "id": "q009",
+          "answer": "SAMARINDA",
+          "clue": "Ibu kota Provinsi Kalimantan Timur.",
+          "r": 11,
+          "c": 3,
+          "dir": "across",
+          "number": 10
+        }
+      ],
+      "date": "2026-11-06",
+      "number": 8
+    },
+    "2026-11-07": {
+      "rows": 14,
+      "cols": 12,
+      "entries": [
+        {
+          "id": "q066",
+          "answer": "PEMPEK",
+          "clue": "Makanan khas Palembang berbahan ikan dan sagu.",
+          "r": 0,
+          "c": 6,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q038",
+          "answer": "ELEKTRON",
+          "clue": "Partikel bermuatan negatif dalam atom.",
+          "r": 1,
+          "c": 4,
+          "dir": "across",
+          "number": 2
+        },
+        {
+          "id": "q024",
+          "answer": "MARS",
+          "clue": "Planet yang dijuluki Planet Merah.",
+          "r": 3,
+          "c": 3,
+          "dir": "down",
+          "number": 3
+        },
+        {
+          "id": "q077",
+          "answer": "KILOGRAM",
+          "clue": "Satuan pokok SI untuk massa.",
+          "r": 4,
+          "c": 1,
+          "dir": "down",
+          "number": 4
+        },
+        {
+          "id": "q084",
+          "answer": "SEISMOGRAF",
+          "clue": "Alat pencatat getaran gempa.",
+          "r": 4,
+          "c": 10,
+          "dir": "down",
+          "number": 5
+        },
+        {
+          "id": "q082",
+          "answer": "MIKROSKOP",
+          "clue": "Alat untuk mengamati objek sangat kecil.",
+          "r": 5,
+          "c": 0,
+          "dir": "across",
+          "number": 6
+        },
+        {
+          "id": "q071",
+          "answer": "SEGITIGA",
+          "clue": "Bangun datar dengan tiga sisi.",
+          "r": 5,
+          "c": 5,
+          "dir": "down",
+          "number": 7
+        },
+        {
+          "id": "q010",
+          "answer": "PONTIANAK",
+          "clue": "Kota di Kalimantan Barat yang dilalui garis khatulistiwa.",
+          "r": 5,
+          "c": 8,
+          "dir": "down",
+          "number": 8
+        },
+        {
+          "id": "q030",
+          "answer": "GRAVITASI",
+          "clue": "Gaya tarik yang membuat benda jatuh ke Bumi.",
+          "r": 9,
+          "c": 0,
+          "dir": "across",
+          "number": 9
+        },
+        {
+          "id": "q069",
+          "answer": "PRAMBANAN",
+          "clue": "Kompleks candi Hindu terkenal di dekat Yogyakarta.",
+          "r": 12,
+          "c": 3,
+          "dir": "across",
+          "number": 10
+        }
+      ],
+      "date": "2026-11-07",
+      "number": 9
+    },
+    "2026-11-08": {
+      "rows": 18,
+      "cols": 17,
+      "entries": [
+        {
+          "id": "q050",
+          "answer": "KELELAWAR",
+          "clue": "Mamalia yang mampu terbang aktif.",
+          "r": 0,
+          "c": 10,
+          "dir": "down",
+          "number": 1
+        },
+        {
+          "id": "q054",
+          "answer": "FOTOSINTESIS",
+          "clue": "Proses tumbuhan membuat makanan dengan bantuan cahaya.",
+          "r": 1,
+          "c": 2,
+          "dir": "across",
+          "number": 2
+        },
+        {
+          "id": "q027",
+          "answer": "NEPTUNUS",
+          "clue": "Planet terjauh dari Matahari di antara delapan planet.",
+          "r": 3,
+          "c": 9,
+          "dir": "across",
+          "number": 3
+        },
+        {
+          "id": "q073",
+          "answer": "DIAMETER",
+          "clue": "Garis lurus melalui pusat lingkaran yang menghubungkan dua titik pada kelilingnya.",
+          "r": 4,
+          "c": 6,
+          "dir": "down",
+          "number": 4
+        },
+        {
+          "id": "q057",
+          "answer": "HERBIVORA",
+          "clue": "Sebutan bagi hewan pemakan tumbuhan.",
+          "r": 5,
+          "c": 2,
+          "dir": "across",
+          "number": 5
+        },
+        {
+          "id": "q021",
+          "answer": "MERKURIUS",
+          "clue": "Planet terdekat dengan Matahari.",
+          "r": 9,
+          "c": 8,
+          "dir": "down",
+          "number": 6
+        },
+        {
+          "id": "q079",
+          "answer": "TERMOMETER",
+          "clue": "Alat untuk mengukur suhu.",
+          "r": 10,
+          "c": 0,
+          "dir": "across",
+          "number": 7
+        },
+        {
+          "id": "q036",
+          "answer": "HELIUM",
+          "clue": "Gas ringan berlambang He yang sering mengisi balon.",
+          "r": 12,
+          "c": 11,
+          "dir": "down",
+          "number": 8
+        },
+        {
+          "id": "q068",
+          "answer": "BOROBUDUR",
+          "clue": "Candi Buddha besar di Kabupaten Magelang.",
+          "r": 14,
+          "c": 0,
+          "dir": "across",
+          "number": 9
+        },
+        {
+          "id": "q060",
+          "answer": "EKOSISTEM",
+          "clue": "Kesatuan makhluk hidup dan lingkungan yang saling berinteraksi.",
+          "r": 17,
+          "c": 3,
+          "dir": "across",
+          "number": 10
+        }
+      ],
+      "date": "2026-11-08",
+      "number": 10
+    }
+  }
+}
