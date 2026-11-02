@@ -1,6 +1,6 @@
 # Sepuluh — TTS Harian
 
-Teka-teki silang bahasa Indonesia: tepat 10 soal pengetahuan umum per hari. Semua pemain mendapat papan yang sama. Pergantian hari pukul 00.00 Asia/Jakarta (WIB). Progres disimpan di localStorage browser, bukan akun.
+Teka-teki silang berbahasa Indonesia: 10 soal setiap harinya. di reset setiap pukul 00.00 Asia/Jakarta (WIB). Progres disimpan di localStorage browser, bukan akun.
 
 ## Stok awal
 100 soal unik untuk 10 tanggal: 30 Oktober–8 November 2026. Setiap soal dan jawaban digunakan satu kali dalam stok ini. Stok terbatas, bukan generator AI tanpa batas. Setelah stok habis permainan menampilkan pemberitahuan; tidak mengulang papan lama.
